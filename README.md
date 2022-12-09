@@ -3,10 +3,6 @@ This is a mini php + mysql search bar function for sql injection experiment.
 Search bar searches premium shoes and the quantity available. The 's_search.php' shows
 how to mitigate sql injection properly. 
 
-# Clone this repo
-
-git clone https://github.com/jakwanhussain/sql-injection-php.git
-
 
 # Installation
 
